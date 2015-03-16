@@ -70,9 +70,9 @@ Group 3: 301-303                | enter information here
 
 
 ### 1.3 Body Weight - Charts
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.svg) 
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5-1.png) 
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.svg) 
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png) 
 
 ******
 2 BODY WEIGHT GAIN
@@ -103,11 +103,11 @@ Group 3: 301-303                | enter information here
 ```
 
 ### 2.3 Body Weight Gain - Charts
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9.svg) 
+![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-1.png) 
 
-![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10.svg) 
+![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10-1.png) 
 
-![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.svg) 
+![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11-1.png) 
 
 ******
 3. CLINICAL PATHOLOGY
@@ -230,7 +230,7 @@ RET_PER  -  Reticulocyte (%)
 ```
 
 ### 3.3 Clinical Pathology - Charts
-![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15.svg) 
+![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15-1.png) 
 
 ******
 4. ADDITIONAL INFORMATION
@@ -242,5 +242,5 @@ NO EVENTS TO REPORT
 
 
 ```
-THE SUMMARY WAS CREATED ON 2014-09-28 14:07:57.
+THE SUMMARY WAS CREATED ON 2015-03-16 18:46:31.
 ```
